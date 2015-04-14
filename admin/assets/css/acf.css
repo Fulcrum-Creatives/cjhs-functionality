@@ -1,0 +1,33 @@
+.acf-input-wrap input{
+    max-width: 338px;
+}
+#acf-cjhs_menu_id_prefix ul {
+    margin-top: 13px;
+}
+#acf-cjhs_adjacent_posts_rel_link,
+#acf-cjhs_adjacent_post_rel_link_wp_head,
+#acf-cjhs_index_rel_link,
+#acf-cjhs_parent_post_rel_link,
+#acf-cjhs_rds_link,
+#acf-cjhs_start_post_rel_link,
+#acf-cjhs_wmlmanifest_link,
+#acf-cjhs_wp_shortlink_wp_head {
+    width: 50%;
+    float: left;
+}
+#acf-cjhs_adjacent_posts_rel_link .label,
+#acf-cjhs_adjacent_post_rel_link_wp_head .label,
+#acf-cjhs_index_rel_link .label,
+#acf-cjhs_parent_post_rel_link .label,
+#acf-cjhs_rds_link .label,
+#acf-cjhs_start_post_rel_link .label,
+#acf-cjhs_wmlmanifest_link .label,
+#acf-cjhs_wp_shortlink_wp_head .label {
+    display: none;
+}
+#acf-cjhs_wp_generator.field_key-field_52efc369da429 .label{
+    display: block;
+}
+.field_type-message{
+    clear: both;
+}
